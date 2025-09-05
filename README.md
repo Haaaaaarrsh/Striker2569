@@ -21,7 +21,7 @@
 ### 🛠️ Skills & Certifications
 - **Core Skills:** Python, PySpark, SQL, AWS (S3, DynamoDB, Glue, Kinesis, Lambda), Data Warehousing  
 - **ML/AI:** CNN, RNN, NLP, Feature Engineering, Model Deployment  
-- **Certifications:** AWS Certified Solutions Architect – Associate
+- **Certifications:** AWS Certified Solutions Architect – Associate 
   
 ---
 
