@@ -26,6 +26,6 @@
 ---
 
 ### 📈 Roadmap Progress
-[![roadmap.sh](https://roadmap.sh/card/tall/645ddbc25e197f85a2c4a2bc?variant=dark&roadmaps=sql%2Caws%2Cmachine-learning)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/645ddbc25e197f85a2c4a2bc?variant=dark)](https://roadmap.sh)
 
 
