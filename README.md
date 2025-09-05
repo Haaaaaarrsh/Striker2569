@@ -1,14 +1,42 @@
-<h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
-<h3 align="center">Data Science Enthusiast || Full Stack Developer || Passionate about building and learning something new each day!</h3>
+<h1 align="center">Harsh Chauhan</h1>
+<h3 align="center">Data Engineer | Machine Learning & AI Enthusiast</h3>
 
-- 🔭 I’m currently working on **Web Scraping Project, and making MERN stack based portfolio website**
+---
 
-- 🌱 I’m currently learning **React framework, MERN Stack, plotly dash**
+### 🚀 About Me
+- 🎓 B.Tech in Computer Science & Engineering (VIT, Chennai, 2020–2024)  
+- 💼 Data Engineer at **Cognizant Technology Solutions**  
+- 🔭 Skilled in **AWS, PySpark, SQL, Data Warehousing, and ETL pipelines**  
+- 🌱 Exploring **Machine Learning, NLP, and Scalable Data Systems**  
 
-- 💬 Ask me about **Data Science, React, Machine Learning**
+---
 
-- 📫 How to reach me **152003harsh@gmail.com**
+### 💼 Experience
+- **Cognizant Technology Solutions** – Programmer Analyst (Full Time)  [Present]
+- **Inditech Health Solutions** – Product Engineering Intern  
+- **LTIMindTree** – Data Engineering Intern  
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QC1yqhoqwmixN_4L4diaOlZcWlT_Z8l-Z2MMWfST0Ic/edit?usp=sharing](https://docs.google.com/document/d/1QC1yqhoqwmixN_4L4diaOlZcWlT_Z8l-Z2MMWfST0Ic/edit?usp=sharing)
+---
 
-- ⚡ Fun fact **Once I start something I make sure I finish it.**
+### 📂 Projects
+- 🎵 **Song Recommendation Model** – CNN & RNN for personalized recommendations  
+- ⚖️ **Law Document Summarization** – NLP pipeline for legal text summarization  
+- 🧬 **Malaria Classification** – CNN (VGG-19) for automated malaria detection  
+
+---
+
+### 🛠️ Skills & Certifications
+- **Core Skills:** Python, PySpark, SQL, AWS (S3, DynamoDB, Glue, Kinesis, Lambda), Data Warehousing  
+- **ML/AI:** CNN, RNN, NLP, Feature Engineering, Model Deployment  
+- **Certifications:** AWS Certified Solutions Architect – Associate  
+
+---
+
+### 📈 Roadmap Progress
+[![roadmap.sh](https://roadmap.sh/card/tall/645ddbc25e197f85a2c4a2bc?variant=dark&roadmaps=sql%2Caws%2Cmachine-learning)](https://roadmap.sh)
+
+---
+
+### 📫 Connect with Me
+- 📧 **152003harsh@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-chauhan-7645ab1bb/)  
